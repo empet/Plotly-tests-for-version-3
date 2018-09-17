@@ -1,4 +1,4 @@
-plotly==3.0.0rc10
+plotly==3.2.0
 ipywidgets
 numpy
 pandas
